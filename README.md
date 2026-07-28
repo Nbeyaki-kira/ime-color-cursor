@@ -1,5 +1,6 @@
 # IME Color Cursor
 Visualize Windows IME status by changing the text cursor color.
+
 Windowsで日本語入力の **半角 / 全角** を、カーソルの色で判別できる小さなツールです。
 
 - ⬜ 半角入力（IME OFF） → 白いIビーム
