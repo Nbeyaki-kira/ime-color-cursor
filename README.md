@@ -60,7 +60,7 @@ WindowsにはIMEの状態を表示する機能がありますが、
 
 ## スクリーンショット
 
-
+![IME Color Cursor](demo.png)
 
 ---
 
