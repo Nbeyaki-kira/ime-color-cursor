@@ -83,3 +83,9 @@ MIT License
 
 もし気に入っていただけたら、
 GitHubの ⭐ を付けてもらえるとうれしいです。
+
+## 📦 ダウンロード
+
+最新版はこちらから
+
+https://github.com/Nbeyaki-kira/ime-color-cursor/releases/latest
