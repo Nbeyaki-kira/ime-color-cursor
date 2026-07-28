@@ -86,6 +86,4 @@ GitHubの ⭐ を付けてもらえるとうれしいです。
 
 ## 📦 ダウンロード
 
-最新版はこちらから
-
-https://github.com/Nbeyaki-kira/ime-color-cursor/releases/latest
+**➡ [最新版をダウンロード](https://github.com/Nbeyaki-kira/ime-color-cursor/releases/latest)**
